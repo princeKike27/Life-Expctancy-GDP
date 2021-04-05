@@ -4,6 +4,6 @@ For this project I analyzed data on Growth Domestic Product (GDP) and life expec
 
 Throughout the project you will be able to find:
 
-    Data cleaning and standardization.
-    Analysis of Life Expectancy and GDP from 2000 to 2015.
-    Correlation Analysis of Life Expectancy and GDP.
+* Data cleaning and standardization.
+* Analysis of Life Expectancy and GDP from 2000 to 2015.
+* Correlation Analysis of Life Expectancy and GDP.
